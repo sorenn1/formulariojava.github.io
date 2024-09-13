@@ -1,0 +1,57 @@
+.container{
+    width: 750px;
+    height: 600px;
+    background-color:#1B2432;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   margin-top: 1em;
+   border-radius: 20px;
+ 
+}
+
+.Card{
+  margin-left: 28%;
+    display: flex;
+   flex-direction: column;
+   width: 300px;
+ padding: 10px;
+   margin-top: 4em;
+   
+   
+}
+
+h1{
+    margin-left: 0.5em;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #2C2B3C ;
+    color: #fff;
+}
+
+.Container2{
+    width: 750px;
+    height: 600px;
+    background-color:#1B2432;
+   position: absolute;
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%,-50%);
+   margin-top: 1em;
+   border-radius: 20px;
+}
+
+.Card2{
+    margin-left: 28%;
+    display: flex;
+   flex-direction: column;
+   width: 300px;
+ padding: 10px;
+   margin-top: 4em;
+}
